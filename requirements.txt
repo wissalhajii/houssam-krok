@@ -1,0 +1,8 @@
+torch
+yt-dlp[default]
+reportlab
+transformers
+ffmpeg-python
+openai
+weasyprint
+markdown2
