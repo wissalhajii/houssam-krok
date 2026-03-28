@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-json_path = "/Users/wissal/quiz.json"
+json_path = "quiz.json"
 
 with open(json_path, "r", encoding="utf-8") as f:
     quiz = json.load(f)
